@@ -15,7 +15,7 @@ if((isset($_SESSION['loginto']))&&($_SESSION['loginto']==true))
 <title>Serwis Design</title>
 </head>
 <body>
-If you like awesome things.<br/><br/> 
+<h1>If you like awesome things.</h1><br/><br/> 
 
 <a href="registration.php">Registration - create free account!</a>
 <br /><br />
